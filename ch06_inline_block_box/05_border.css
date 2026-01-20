@@ -1,0 +1,10 @@
+/* li{
+  text-decoration: underline;
+} */
+/* li:not(:first-child){
+  text-decoration: overline;
+} */
+
+li:not(:last-child){
+  border-bottom: 1px solid black;
+}
