@@ -1,0 +1,15 @@
+body {
+  background: #5f5f5f;
+}
+
+ul{
+  list-style-type: circle;
+}
+ul>li:first-child{
+  list-style: "|";
+}
+
+ol {
+  /* list-style: decimal-leading-zero; */
+  list-style: lower-greek;
+}

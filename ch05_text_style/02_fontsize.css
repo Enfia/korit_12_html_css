@@ -1,0 +1,21 @@
+body {
+  background-color: #5f5f5f;
+}
+
+html {
+  font-size: 15px;
+}
+
+div {
+  font-size: 1.4em;
+}
+/* div 바깥 = 15px */
+/* div 중간 = 15px*1.4 */
+/* div 안쪽 = 15px*1.4^2 */
+/* div 안안쪽 = 15px*1.4^3 */
+
+
+div>div {
+  font-size: 2rem;
+}
+/* 안쪽, 안안쪽 = 15px*2 */
