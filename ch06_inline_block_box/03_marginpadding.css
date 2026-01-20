@@ -1,0 +1,13 @@
+body {
+  background: #5f5f5f;
+}
+
+p {
+  background-color: lightblue;
+  margin: 24px;
+  padding: 24px;
+}
+p.special {
+  margin: 12px;
+  padding: 12px 24px;
+}
