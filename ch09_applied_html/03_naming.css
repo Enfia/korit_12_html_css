@@ -1,0 +1,23 @@
+article{
+  /* ... */
+}
+
+article>aside{
+  /* ... */
+}
+
+article>aside>figure{
+  /* ... */
+}
+
+article>div>header{
+  /* ... */
+}
+
+article>ul>li{
+  /* ... */
+}
+
+article>div>li.special{
+  /* ... */
+}

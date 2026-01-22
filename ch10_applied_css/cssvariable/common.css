@@ -1,0 +1,27 @@
+u {
+  --not-good: wavy underline orange;
+  --wrong: wavy underline red;
+}
+
+.wrong{
+  --warn: yellow;
+}
+
+
+
+:root{
+  --font-smal:8px;
+  --font-normal:16px;
+  --font-large: 24px;
+  --font-x-large:32px;
+  --font-xx-large:40px;
+  --font-xxx-large:48px;
+
+  --font-w-normal: 400;
+  --font-w-bold: 600;
+  --font-w-extrabold: 900;
+
+  --color-main: #ff4200;
+  --color-sub: #865a55;
+  --color-text: #49281c;
+}
